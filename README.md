@@ -115,3 +115,8 @@ Up next I'll provide a small summary of the TEKKEN 7 mechanics that I have imple
 - b+2,1<1
 - f+3~f+1+2 IZU 3
 - During Rage u/f+3+4, GEN 3, f+2
+
+### Wallbounce
+- d/b+1,2 (WB!), f+4 (W!), 1+4,2,4
+- GEN 2 (WB!), f,f+2,3 (W!), f+1,3, 1+2
+- During Rage u/f+3+4~F (WB!), b+2,1,4 (W!), b+2,1<1

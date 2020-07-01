@@ -98,3 +98,20 @@ Up next I'll provide a small summary of the TEKKEN 7 mechanics that I have imple
 - **i15:** WS 1,4 (+2, OPPONENT CROUCHING)
 - **i16:** u/f+4,3 (LAUNCH, BOUND) or u/f+3+4 (DURING RAGE, LAUNCH)
 - **i18:** WS 3 (LAUNCH, AIR)
+
+## Sample combos
+### No wall
+- f+2, u/f+3, b+4,2, b+2,1,4 (S!), f,f+2,3
+- u/f+4,3, f+4 (S!), WR 3, d/f+2, b+2,1~f+1+2 IZU 1+2
+- d/f+2,1 or WS 2,1 (S!), WR 3, d/f+2, f+3, b+2,1~f+1+2 IZU 2
+- CH 4, f+3,4 (S!), WR 3, d/f+2, f+3~f+1+2 IZU 2
+- CH u/f+3, d/b+4,1 (S!), u/f+3, f+3, b+2,1,4
+- During rage u/f+3+4, GEN 4 (S!), WR 3, b+2,1, f+3~f+1+2 IZU 2
+- f+2, 3, b+4,2, b+2,1~b+1+2 During rage 2+4 (RD), f+4 (S!), b+4,2
+
+### Wall combos
+- 1+4,2,4
+- f+1,3, 1+2
+- b+2,1<1
+- f+3~f+1+2 IZU 3
+- During Rage u/f+3+4, GEN 3, f+2

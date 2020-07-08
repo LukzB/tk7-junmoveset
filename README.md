@@ -1,11 +1,14 @@
 # Jun Kazama TEKKEN 7 Moveset Mod
 Jun Kazama's TAG2 moveset re-worked and re-invented to fit into Tekken 7's world. This mod was made using @Kiloutre's Tekken Moveset Extractor, so huge props to him, it would have been impossible without his tool.
 
+# IMPORTANT, PLEASE READ - CURRENT STATE OF THE MOD
+Moveset files are no longer available to download. I will re-work the mod in order to avoid legal issues with unauthorized file distribution, so stay tuned.
+
 # Disclaimer
 This moveset mod is based on Jun Kazama's TEKKEN TAG TOURNAMENT 2 moveset, designed and animated by Bandai Namco and the Tekken Project. This is only a fan-made moveset, made by replicating existing behaviors and animations from TEKKEN 7, game also designed and animated by Bandai Namco and the Tekken Project. Any resemblance or similarity with unannounced or unreleased content for TEKKEN 7 is purely coincidental. The mod has been tested and it's safe to use, but I do not take any responsibility for any harm or damage it may cause to your computer.
 
 # Download links
-- Moveset: https://www.github.com/lukzb/tk7-junmoveset/releases
+- Moveset: Coming soon.
 - Tekken Moveset Extractor by Kiloutre: https://github.com/Kiloutre/TekkenMovesetExtractor/releases
 
 # How to use
